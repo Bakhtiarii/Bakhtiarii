@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 👋 Hi, I’m Mohammadreza Bakhtiari
+- 👀 My interests are Natural Language Processing, Control systems, Artificial Intelligence and Machine Learning.
+- You can contact me by my email: mohammadbakhtiari.79@gmail.com
 
 <!--
 **Bakhtiarii/Bakhtiarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
