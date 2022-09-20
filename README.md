@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammadreza Bakhtiari
 - 👀 My interests are Natural Language Processing, Control systems, Robotics, Optimization, Artificial Intelligence and Machine Learning.
-- You can contact me by my email: mohammadbakhtiari.79@gmail.com
+- You can contact me by my email: mohammadrezabakhtiari.mrb@gmail.com
 
 <!--
 **Bakhtiarii/Bakhtiarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
