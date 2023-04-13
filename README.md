@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammadreza Bakhtiari
-- 👀 My interests are Natural Language Processing, Control systems, Robotics, Optimization, Artificial Intelligence and Machine Learning.
+- 👀 My interests are Optimization, Control Theory, Statistical Learning, Game Theory, and Renewable Energy Integration.
 - You can contact me by my email: mohammadrezabakhtiari.mrb@gmail.com
 
 <!--
