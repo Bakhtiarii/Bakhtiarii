@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammadreza Bakhtiari
-- 👀 My interests are Optimization, Control Theory, Statistical Learning, Game Theory, and Renewable Energy Integration.
+- 👀 My interests are Reinforcement Learning, Optimization, Control Theory, Machine Learning, and Renewable Energy Integration.
 - You can contact me by my email: mohammadrezabakhtiari.mrb@gmail.com
 
 <!--
